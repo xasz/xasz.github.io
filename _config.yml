@@ -4,3 +4,5 @@ description: see title
 url: http://xasz.github.io
 markdown: kramdown
 highlighter: rouge
+
+theme: jekyll-theme-slate
