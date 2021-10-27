@@ -1,0 +1,6 @@
+#Jekyll configuration
+name: xasz somewhat knowledge
+description: see title
+url: http://xasz.github.io
+markdown: kramdown
+highlighter: rouge
