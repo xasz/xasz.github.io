@@ -1,5 +1,5 @@
 # Automatically mount sharepoint sites and folders in a onedrive client
-> :info: **Tldr:** If you have one organization - There is a change. If you have multiple organizations - Don't waste your time - I did it for you.
+> **Tldr:** If you have one organization - There is a change. If you have multiple organizations - Don't waste your time - I did it for you.
 Really if you have any solution for having automatically mount sharepoint sites across organizations via intune, gpo, registr, powershell, rmm ,... message me.
 
 ## The libaryID which does not exist anymore
